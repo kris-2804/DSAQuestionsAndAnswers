@@ -14,7 +14,7 @@ public class FirstMissingPositive {
             if(nums[i]<=0) continue;
         if(nums[i]==counter){
             ++counter;
-        }mgjkfj{
+        }{
             return  counter;
 
         }
