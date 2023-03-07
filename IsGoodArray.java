@@ -6,10 +6,6 @@ public class IsGoodArray   {
     public  boolean isGoodArray(int[]arr){
         boolean answer = false;
 
-
-
-
-
         return  answer;
     }
 }
